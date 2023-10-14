@@ -1,0 +1,18 @@
+.bg-image {
+  background-image: url("img.png"); /* Replace 'path/to/your/file.png' with the actual path to your image */
+  background-size: cover; /* This will cover the entire section with the background image */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent image repetition */
+  height: 900px;
+  color: #fff; /* Adjust the text color for better visibility on the background */
+}
+
+.left-border {
+  border-left: 5px solid rgba(10, 199, 117, 1); /* You can change the color and style as needed */
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+}
+span {
+  color: rgba(10, 199, 117, 1);
+}
